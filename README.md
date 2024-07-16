@@ -1,9 +1,9 @@
 # Drug-Recommendation-System
-- Took a dataset that containd various features like data
+- Took a dataset that containd various features like
 -   - Medical Condition
     - Review (senteces)
     - Rating
-    - Medicines
+    - Medicines, etc
  
 - Considered top 4 diseases (Medical Condition)
 - Preprocessed `sentences` features using NLTK, and other NLP techniques.
